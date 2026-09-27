@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Academic",
+  "description": "Hyper-focused competitive exam preparation (NEET & JEE) paired with foundational textbook reading and cognitive study intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
